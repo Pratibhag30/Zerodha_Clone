@@ -36,7 +36,33 @@ Zerodha/
 ├── backend/ # Express server & MongoDB setup
 ├── frontend/ # React client (User interface)
 ├── dashboard/ #  Admin/User Dashboard 
+├── screenshots/ #Screenshots of my project
 
 ### Clone the Repository
 git clone https://github.com/Pratibhag30/zerodha-clone.git
-cd Zerodha
+
+
+##  Screenshots
+
+###  Landing Page
+![Landing](screenshots/LandingPage.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+###  Charts View
+![Charts](screenshots/charts.png)
+
+###  Holdings Page
+![Holdings](screenshots/holdings.png)
+
+###  Buy Window
+![Buy](screenshots/buy.png)
+
+###  Pricing Page
+![Pricing](screenshots/pricing.png)
+
+
+
+
+
